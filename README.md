@@ -8,7 +8,7 @@ Projekt został wykonany bez użycia frameworków ani silników gier — cała l
 
 ## Screenshot
 
-![Game Screenshot](images/screenshot.png)
+![Game Screenshot](images/screenshot.PNG)
 
 
 ---
